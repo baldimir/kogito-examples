@@ -9,7 +9,7 @@
     "type" : "custom",
     "metadata" : {
       "file" : "Traffic Violation.dmn",
-      "namespace" : "https://github.com/kiegroup/drools/kie-dmn/_A4BCA8B8-CF08-433F-93B2-A2598F19ECFF",
+      "namespace" : "https://github.com/kubesmarts/drools/kie-dmn/_A4BCA8B8-CF08-433F-93B2-A2598F19ECFF",
       "model" : "Traffic Violation"
     }
   } ],

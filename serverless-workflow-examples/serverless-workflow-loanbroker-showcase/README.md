@@ -42,7 +42,7 @@ This is the implementation:
 
 ![](implementation.png)
 
-The main orchestration flow we implemented with [Kogito Serverless Workflow](https://kiegroup.github.io/kogito-docs/serverlessworkflow/latest/) and [Knative Serving](https://knative.dev/docs/serving/), which is Red Hat's implementation of the [CNCF Serverless Workflow Specification](https://serverlessworkflow.io/).
+The main orchestration flow we implemented with [Kogito Serverless Workflow](https://kubesmarts.github.io/kogito-docs/serverlessworkflow/latest/) and [Knative Serving](https://knative.dev/docs/serving/), which is Red Hat's implementation of the [CNCF Serverless Workflow Specification](https://serverlessworkflow.io/).
 
 The Credit Bureau and Bank functions where implemented with Knative Functions project using NodeJS. Credit Bureau is a synchronous HTTP function and the Bank is an async function listening to a CloudEvent event. Knative Eventing is the messaging platform of choice so every message must be a CloudEvent over HTTP. 
 

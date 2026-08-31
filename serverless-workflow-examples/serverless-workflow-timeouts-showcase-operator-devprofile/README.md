@@ -13,7 +13,7 @@ minikube start --cpus 4 --memory 10g --addons registry --addons metrics-server -
 
 3. Be sure that the SonataFlow Operator is installed in your minikube.
 
-For more information about the installation procedure see [Install the SonataFlow Operator](https://kiegroup.github.io/kogito-docs/serverlessworkflow/latest/cloud/operator/install-serverless-operator.html).
+For more information about the installation procedure see [Install the SonataFlow Operator](https://kubesmarts.github.io/kogito-docs/serverlessworkflow/latest/cloud/operator/install-serverless-operator.html).
 
 ### Creating the namespace
 

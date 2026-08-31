@@ -12,7 +12,7 @@ The example contains workflow definition, necessary application.properties and a
 ### Prerequisites
 
 1. Install [{product_name} plugin for Knative CLI](https://sonataflow.org/serverlessworkflow/main/testing-and-troubleshooting/kn-plugin-workflow-overview.html)
-2. Install the [{product_name} Operator](https://kiegroup.github.io/kogito-docs/serverlessworkflow/latest/cloud/operator/install-serverless-operator.html)
+2. Install the [{product_name} Operator](https://kubesmarts.github.io/kogito-docs/serverlessworkflow/latest/cloud/operator/install-serverless-operator.html)
 3. Checkout this example locally
 
 ### Run the example in local environment

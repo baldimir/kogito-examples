@@ -1,10 +1,10 @@
 # Kogito Serverless Workflow Camel Integration
 
-This repository exemplifies the camel add-on that can be used in [Kogito Serverless Workflow projects](https://kiegroup.github.io/kogito-docs/serverlessworkflow/latest/) to call custom [Camel Routes](https://camel.apache.org/) within the same application (JVM).
+This repository exemplifies the camel add-on that can be used in [Kogito Serverless Workflow projects](https://kubesmarts.github.io/kogito-docs/serverlessworkflow/latest/) to call custom [Camel Routes](https://camel.apache.org/) within the same application (JVM).
 
 ## How this works
 
-You can use any [Camel Quarkus component](https://camel.apache.org/camel-quarkus/2.14.x/reference/index.html) as a [custom Serverless Workflow function](https://kiegroup.github.io/kogito-docs/serverlessworkflow/latest/core/custom-functions-support.html). For example, to call a SOAP service using CXF from your workflow you would do:
+You can use any [Camel Quarkus component](https://camel.apache.org/camel-quarkus/2.14.x/reference/index.html) as a [custom Serverless Workflow function](https://kubesmarts.github.io/kogito-docs/serverlessworkflow/latest/core/custom-functions-support.html). For example, to call a SOAP service using CXF from your workflow you would do:
 
 ```json
 {

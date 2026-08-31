@@ -22,7 +22,7 @@ The following picture shows a high-level design:
 ### Prepare your environment
 
 1. Install [minikube](https://minikube.sigs.k8s.io/docs/start/)
-2. Install the [Operator](https://kiegroup.github.io/kogito-docs/serverlessworkflow/latest/cloud/operator/install-serverless-operator.html)
+2. Install the [Operator](https://kubesmarts.github.io/kogito-docs/serverlessworkflow/latest/cloud/operator/install-serverless-operator.html)
 
 ### Deploy the Workflow with Quarkus in Dev Mode
 In the [resources](./resources/) directory you can find the Kubernetes Custom Resources (CR) that you need in order to deploy this workflow on your cluster in dev mode.
